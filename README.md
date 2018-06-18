@@ -8,4 +8,4 @@ R-Ladies Belo Horizonte foi fundado em abril de 2018.
   1. **Primeiro evento do R-Ladies Belo Horizonte**
       - *09 de Junho de 2018, 13:00 hs.*
       - Apresentado por [Layla Comparin](https://rladies.org/brazil-rladies/name/layla-comparin/), [Numiá Gomes](https://rladies.org/brazil-rladies/name/numia-gomes/) e [Larissa Fernandes](https://rladies.org/brazil-rladies/name/larissa-fernandes/).
-          * [Bem Vindas!](https://github.com/rladiesbh/meetup-presentations_rladiesbh/blob/master/1º Meetup - 09-06-2018/FirstMeetup-BH.pdf)
+          * [Bem Vindas!](https://github.com/rladiesbh/meetup-presentations_rladiesbh/blob/master/09062018_PrimeiroMeetup/FirstMeetup-BH.pdf)
